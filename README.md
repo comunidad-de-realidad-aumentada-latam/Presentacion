@@ -3,5 +3,5 @@ Socialización e introducción de esta Iniciativa Documentos, Archivos y Activid
 Pueden usar el hashtag #ARLATAM en Twitter cuando quieran compartir datos interesantes ;)
 
 # Emilio Vegas (Perú) 
-Creador de Emiliusvgs.com
-Twitter: emiliusvgs
+-Creador de Emiliusvgs.com . 
+- Twitter: emiliusvgs .
