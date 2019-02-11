@@ -1,4 +1,4 @@
-# Presentacion
+# Hitos del Grupo
 Socialización e introducción de esta Iniciativa Documentos, Archivos y Actividades referentes comunidad
 
 #Semana 1 (3-10 febrero)
