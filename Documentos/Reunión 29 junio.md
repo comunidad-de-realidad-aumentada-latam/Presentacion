@@ -1,4 +1,5 @@
-#Primera reunión grupal
+# Primera reunión grupal
+
 - Tema: Creación de proyecto que sirva para difundir y representar nuestra comunidad Hispanohablante (Latam & España)
 - Objetivo: Difundir nuestro trabajo y experiencias para hacer "eco" de nuestra comunidad y así hacer fuerza común. 
 
@@ -23,5 +24,3 @@
 - [AITIA](https://www.facebook.com/aitia.oficial/) 
 - [AR Glasses Buyers Guide](http://www.arglassesbuyersguide.com/) 
 - [Augmented Reality ORG](https://www.augmentedreality.org/)  
-
-
