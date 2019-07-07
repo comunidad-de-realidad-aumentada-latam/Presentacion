@@ -15,3 +15,6 @@ Puedes seguir las actividades semanales a través de este [enlace](https://githu
 
 - Hemos creado una carpeta [documentos](https://github.com/comunidad-de-realidad-aumentada-latam/Presentacion/tree/master/Documentos).
 - Si quieres usar nuestros [logos](https://github.com/comunidad-de-realidad-aumentada-latam/Presentacion/tree/master/Logos). Ten en cuenta que se deben usar dichas imágenes para trabajo u eventos relacionados a la comunidad. 
+
+## Reuniones
+- Resumen primera reunión [link](https://github.com/comunidad-de-realidad-aumentada-latam/Presentacion/blob/master/Documentos/Reuni%C3%B3n%2029%20junio.md)
